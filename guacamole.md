@@ -2,11 +2,11 @@ Ingredients:
 - 2 avocados
 - 1 lime
 - 2 tsp salt
-- 1 small onion
+- 2 shallots
 
 Instructions:
 - cut and mash avocados
-- chop onion
+- chop shallots
 - squeeze lime
 - add salt
-- and mix well
+- mix well
