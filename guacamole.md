@@ -2,7 +2,7 @@ Ingredients:
 - 2 avocados
 - 1 lime
 - 2 tsp salt
-- 1 onion
+- 1 small onion
 
 Instructions:
 - cut and mash avocados
